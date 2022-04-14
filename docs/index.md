@@ -1,7 +1,5 @@
 ## Luna
 
-You can use the [editor on GitHub](https://github.com/mattie20/luna/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
 ### Purpose
 
 To bring a better CAD system to the world long dominated by the Solidworks and Autodesk duopoly. To make software that is built and supported with the end user in mind.
@@ -17,7 +15,6 @@ To bring a better CAD system to the world long dominated by the Solidworks and A
 [Wiki](www.githuub.com/mattie20/luna/wiki) and ![Image](www.githuub.com/mattie20/luna/docs/logo.png)
 
 
-
-
 ### Support or Contact
 
+mattelks43216@gmail.com
