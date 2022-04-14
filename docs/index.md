@@ -12,7 +12,7 @@ To bring a better CAD system to the world long dominated by the Solidworks and A
 - Expanding that mvp over the span of five years to incorporate advanced features that will differentiate Luna from its closed source competitors
 - Utilizing the existing codebase, branch out into Civil Engineering and architecture products
 
-More information can be found under the project [wiki](www.githuub.com/mattie20/luna/wiki)
+More information can be found under the project [wiki](https://www.github.com/mattie20/luna/wiki)
 
 
 
