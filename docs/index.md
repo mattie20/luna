@@ -1,6 +1,6 @@
 ## Luna
 
-![Logo](/logo.png)
+![Logo](logo.png)
 
 ### Purpose
 
