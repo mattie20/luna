@@ -1,6 +1,6 @@
 ## Luna
 
-[Image](www.githuub.com/mattie20/luna/docs/logo.png)
+[Image](www.github.com/mattie20/luna/docs/logo.png)
 
 ### Purpose
 
